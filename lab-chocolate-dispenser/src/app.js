@@ -8,7 +8,7 @@ var chocolates = [
     "purple", "green", "pink", "green", "red", "silver", "crimson", "blue", "green", "red",
     "red", "pink", "blue", "silver", "pink", "crimson", "purple", "green", "red", "blue",
     "red", "purple", "silver", "blue", "pink", "silver", "crimson", "silver", "blue", "purple",
-    "purple", "green", "blue", "blue", "red", "red", "silver", "purple", "silver", "crimson"
+    "purple", "green", "blue", "blue", "red", "red", "silver", "purple", "silver", "crimson","crimson"
 ];
 
 //Progression 1: Add ___ chocolates of ____ color
